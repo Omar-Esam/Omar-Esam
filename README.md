@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Omar-Esam/Omar-Esam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ 
+
+https://user-images.githubusercontent.com/86255964/126912488-3bbcdf2f-8575-42e3-946c-ebafcf6089ce.mp4
+
+
+
+
+
